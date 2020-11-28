@@ -404,7 +404,7 @@
 		<key>ProductName</key>
 		<string>MacBookPro14,3</string>
 		<key>SmUUID</key>
-		<string>0B06B6F5-0B11-4DE8-9552-7919532ECAC0</string>
+		<string>99FAC842-0076-4ECB-A247-153B56CF8FAC</string>
 		<key>Mobile</key>
 		<true/>
 		<key>BoardType</key>
@@ -425,7 +425,7 @@
 		<key>InjectSystemID</key>
 		<true/>
 		<key>CustomUUID</key>
-		<string>4726FEA5-9ADE-45D2-9192-1ED3910C9031</string>
+		<string>38BA4B66-1F82-4890-8351-24691784EC46</string>
 		<key>InjectKexts</key>
 		<string>Yes</string>
 	</dict>
