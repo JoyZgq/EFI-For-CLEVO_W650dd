@@ -14,7 +14,7 @@ clover v5127，适用于蓝天W650dc，蓝天W650dd（炫龙dc、炫龙dd等）�
 | 集显     | UHD630  | 免驱                       |
 | 独显     | GTX960M | 已屏蔽                      |
 | 声卡     | ALC269  | 注入ID 58（可修改其他可用点）        |
-| WIFI蓝牙 | Intel   | 使用itlwm+HeliPort实现       |
+| WIFI蓝牙 | Intel   | 使用AirportItlwm实现         |
 | USB    | 2.0/3.0 | USBPorts.kext            |
 | 键盘     |         | VoodooPS2Controller.kext |
 
