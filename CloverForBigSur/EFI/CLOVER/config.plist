@@ -174,7 +174,6 @@
 		<false/>
 		<key>Hide</key>
 		<array>
-			<string>Preboot</string>
 			<string>Recovery</string>
 			<string>FileVault</string>
 			<string>Install</string>
