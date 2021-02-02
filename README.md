@@ -20,9 +20,9 @@ clover v5127，适用于蓝天W650dc，蓝天W650dd（炫龙dc、炫龙dd等）�
 
 ### 尚待解决的问题
 
-- [x] 显卡存修复1536M--->2048MB
+- [x] ~~显卡存修复1536M~~
 
-- [x] 亮度调节补丁Fn+F8，Fn+F9,网上有相关帖子[使用SSDT 给 CPU 变频 及 X86PlatformPlugin 小教程-思羽布丁](https://www.mfpud.com/topics/963/)，目前采用[QuickShade](https://apps.apple.com/cn/app/quickshade/id931571202)第三方工具，可以自定义
+- [x] ~~亮度调节补丁Fn+F8，Fn+F9,网上有相关帖子[使用SSDT 给 CPU 变频 及 X86PlatformPlugin 小教程-思羽布丁](https://www.mfpud.com/topics/963/)，目前采用[QuickShade](https://apps.apple.com/cn/app/quickshade/id931571202)第三方工具，可以自定义~~
 
 - [x] ~~关于Wi-Fi驱动有两种方式一个是itlwm+HeliPort，另一个是AirportItlwm.kext,前者需要使用HeliPort，推荐设为开机启动，后者功能更多（似乎可以实现隔空投送）但目前是beta版，在10.15.7上测试是对比前者速度较快，但在bigsur会出现Wi-Fi无法正常使用，CPU居高不下的问题，以后出现稳定版会继续测试~~
 
