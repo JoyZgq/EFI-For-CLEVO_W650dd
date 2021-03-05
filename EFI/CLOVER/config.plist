@@ -151,16 +151,18 @@
 		<string>PBR</string>
 		<key>NoEarlyProgress</key>
 		<true/>
-		<key>Secure</key>
+		<key>CustomLogo</key>
 		<false/>
 		<key>Debug</key>
 		<false/>
 		<key>Arguments</key>
-		<string>dart=0 nv_disable=1 -disablegfxfirmware keepsyms=1 brcmfx-country=#a igfxonln=1</string>
+		<string>dart=0 nv_disable=1 igfxonln=1</string>
+		<key>Secure</key>
+		<false/>
 		<key>XMPDetection</key>
 		<false/>
 		<key>Timeout</key>
-		<integer>5</integer>
+		<integer>1</integer>
 		<key>DefaultVolume</key>
 		<string>LastBootedVolume</string>
 	</dict>
@@ -373,49 +375,49 @@
 	<key>SMBIOS</key>
 	<dict>
 		<key>FirmwareFeatures</key>
-		<string>0xFC0FE17E</string>
+		<string>0xFD8FF426</string>
 		<key>Board-ID</key>
-		<string>Mac-551B86E5744E2388</string>
+		<string>Mac-1E7E29AD0135F9BC</string>
 		<key>FirmwareFeaturesMask</key>
-		<string>0xFF1FFF7F</string>
+		<string>0xFF9FFF3F</string>
 		<key>BoardVersion</key>
-		<string>1.0</string>
+		<string>MacBookPro15,3</string>
 		<key>Manufacturer</key>
 		<string>Apple Inc.</string>
 		<key>ChassisType</key>
-		<string>0x09</string>
+		<string>0x9</string>
 		<key>BiosVersion</key>
-		<string>MBP143.88Z.F000.B00.2006161755</string>
+		<string>MBP153.88Z.F000.B00.2101062035</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>ChassisAssetTag</key>
-		<string>MacBook-Aluminum</string>
+		<string>Asset Tag#</string>
 		<key>PlatformFeature</key>
-		<string>0x1A</string>
+		<string>0x32</string>
 		<key>Family</key>
 		<string>MacBook Pro</string>
 		<key>ChassisManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02840404CDJ1JHCB</string>
+		<string>C02931404CD0000JC</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>ProductName</key>
-		<string>MacBookPro14,3</string>
+		<string>MacBookPro15,3</string>
 		<key>SmUUID</key>
-		<string>99FAC842-0076-4ECB-A247-153B56CF8FAC</string>
+		<string>13E55A0B-C3A5-42F7-9F70-E522837023D5</string>
 		<key>Mobile</key>
 		<true/>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>EfiVersion</key>
-		<string>428.0.0.0.0</string>
+		<string>1554.80.3.0.0</string>
 		<key>SerialNumber</key>
-		<string>C02XHJYYHTD5</string>
+		<string>C02Z5RYYLVCG</string>
 		<key>LocationInChassis</key>
 		<string>Part Component</string>
 		<key>BiosReleaseDate</key>
-		<string>06/16/2020</string>
+		<string>01/06/2021</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
@@ -424,7 +426,7 @@
 		<key>InjectSystemID</key>
 		<true/>
 		<key>CustomUUID</key>
-		<string>38BA4B66-1F82-4890-8351-24691784EC46</string>
+		<string>93410423-D4A2-4B58-9660-5BA8CAFF2C83</string>
 		<key>InjectKexts</key>
 		<string>Yes</string>
 	</dict>
