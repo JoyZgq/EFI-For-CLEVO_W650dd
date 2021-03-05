@@ -1,6 +1,6 @@
 # EFI-For-CLEVO_W650dd
 
-clover v5129，适用于蓝天W650dc，蓝天W650dd（炫龙dc、炫龙dd等）的黑苹果EFI，支持Big Sur
+clover v5131，适用于蓝天W650dc，蓝天W650dd（炫龙dc、炫龙dd等）的黑苹果EFI，支持Big Sur
 
 ##### 系统版本
 | 系统软件概览：|
